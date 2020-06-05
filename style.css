@@ -96,6 +96,11 @@ hr {
   .cover {
     width: 10rem;
   }
+
+  .container {
+    
+    height: 90vh;
+  }
 }
 
 li {
