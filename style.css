@@ -154,6 +154,13 @@ a {
   padding: 10px;
   color: black;
 }
+.emojiZone {
+  cursor: pointer;
+  color: #fff;
+  font-size: 2em;
+  border-radius: 4px;
+  transition: all 0.3s linear;
+}
 
 footer {
   text-align: center;
