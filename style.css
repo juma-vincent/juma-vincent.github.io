@@ -101,10 +101,6 @@ a {
   text-decoration: none;
 }
 
-.push {
-  margin-left: auto;
-}
-
 .sticky {
   position: fixed;
   top: 0;
@@ -158,7 +154,7 @@ a {
   background-color: transparent;
   padding: 0px;
   color: black;
-  /* margin-top: 20px; */
+  height: 10vh;
 }
 
 footer {
