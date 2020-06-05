@@ -114,13 +114,17 @@ a {
   height: 90vh;
 }
 
+.emoji {
+  align-self: end;
+}
+
 .container > img {
   border-radius: 10px;
   /* width: 40%; */
 }
 
 .cover {
-  width: 15rem;
+  width: 10rem;
 }
 
 /* --------------GRID-------------- */
@@ -149,18 +153,18 @@ a {
   width: 100%;
 }
 
-.emojiBox {
+/* .emojiBox {
   background-color: transparent;
   padding: 10px;
   color: black;
-}
-.emojiZone {
+} */
+/* .emojiZone {
   cursor: pointer;
   color: #fff;
   font-size: 2em;
   border-radius: 4px;
   transition: all 0.3s linear;
-}
+} */
 
 footer {
   text-align: center;
