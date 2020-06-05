@@ -225,30 +225,31 @@ footer {
  *  Yellow Background
  **********************************************************************/
 .yellow {
+  color: black;
   padding: 20px;
   /* color-stop(0%, #f3aaaa),
     color-stop(100%, #febf04) */
-  background: #f13a71; /* Old browsers */
-  background: -moz-linear-gradient(top, #f13a71 0%, #f703ce 100%); /* FF3.6+ */
+  background: #ec94af; /* Old browsers */
+  background: -moz-linear-gradient(top, #ec94af 0%, #f703ce 100%); /* FF3.6+ */
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    color-stop(0%, #f13a71),
+    color-stop(0%, #ec94af),
     color-stop(100%, #f703ce)
   ); /* Chrome,Safari4+ */
   background: -webkit-linear-gradient(
     top,
-    #f13a71 0%,
+    #ec94af 0%,
     #f703ce 100%
   ); /* Chrome10+,Safari5.1+ */
   background: -o-linear-gradient(
     top,
-    #f13a71 0%,
+    #ec94af 0%,
     #f703ce 100%
   ); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #f13a71 0%, #f703ce 100%); /* IE10+ */
-  background: linear-gradient(top, #f13a71 0%, #f703ce 100%); /* W3C */
+  background: -ms-linear-gradient(top, #ec94af 0%, #f703ce 100%); /* IE10+ */
+  background: linear-gradient(top, #ec94af 0%, #f703ce 100%); /* W3C */
 }
 
 /***********************************************************************
