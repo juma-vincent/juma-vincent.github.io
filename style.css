@@ -151,9 +151,8 @@ a {
 
 .emojiBox {
   background-color: transparent;
-  padding: 0px;
+  padding: 10px;
   color: black;
-  height: 10vh;
 }
 
 footer {
