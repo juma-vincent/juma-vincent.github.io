@@ -154,6 +154,7 @@ a {
 }
 
 .coverBox {
+  display: block;
   background-color: transparent;
   padding: 20px;
   color: black;
