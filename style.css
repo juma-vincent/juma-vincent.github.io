@@ -114,10 +114,6 @@ a {
   height: 90vh;
 }
 
-.emoji {
-  align-self: end;
-}
-
 .container > img {
   border-radius: 10px;
   /* width: 40%; */
