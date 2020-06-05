@@ -89,16 +89,8 @@ hr {
 /* @media only screen and (min-width: 600px) {
   .cover {
     width: 10rem;
-  } */
-}
-
-@media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
-  .cover {
-    width: 10rem;
   }
-
-  
-}
+} */
 
 li {
   padding: 20px;
@@ -132,7 +124,7 @@ a {
 }
 
 .cover {
-  width: 20rem;
+  width: 11rem;
 }
 
 /* --------------GRID-------------- */
@@ -224,31 +216,30 @@ footer {
  *  Yellow Background
  **********************************************************************/
 .yellow {
-  color: black;
   padding: 10px;
   /* color-stop(0%, #f3aaaa),
     color-stop(100%, #febf04) */
   background: #f13a71; /* Old browsers */
-  background: -moz-linear-gradient(top, #f13a71 100%, #f7ca03 0%); /* FF3.6+ */
+  background: -moz-linear-gradient(top, #f13a71 80%, #f7ca03 20%); /* FF3.6+ */
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    color-stop(100%, #f13a71),
-    color-stop(0%, #f7ca03)
+    color-stop(80%, #f13a71),
+    color-stop(20%, #f7ca03)
   ); /* Chrome,Safari4+ */
   background: -webkit-linear-gradient(
     top,
-    #f13a71 100%,
-    #f7ca03 0%
+    #f13a71 80%,
+    #f7ca03 20%
   ); /* Chrome10+,Safari5.1+ */
   background: -o-linear-gradient(
     top,
-    #f13a71 100%,
-    #f7ca03 0%
+    #f13a71 80%,
+    #f7ca03 20%
   ); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #f13a71 100%, #f7ca03 0%); /* IE10+ */
-  background: linear-gradient(top, #f13a71 100%, #f7ca03 0%); /* W3C */
+  background: -ms-linear-gradient(top, #f13a71 80%, #f7ca03 20%); /* IE10+ */
+  background: linear-gradient(top, #f13a71 80%, #f7ca03 20%); /* W3C */
 }
 
 /***********************************************************************
