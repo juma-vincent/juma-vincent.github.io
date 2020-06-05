@@ -153,6 +153,11 @@ a {
   width: 100%;
 }
 
+.coverBox {
+  background-color: transparent;
+  padding: 20px;
+}
+
 footer {
   text-align: center;
 }
