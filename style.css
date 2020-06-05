@@ -131,7 +131,7 @@ a {
 
 .container > img {
   border-radius: 10px;
-  width: 40%;
+  /* width: 40%; */
 }
 
 .cover {
@@ -227,6 +227,7 @@ footer {
  *  Yellow Background
  **********************************************************************/
 .yellow {
+  color: black;
   padding: 10px;
   /* color-stop(0%, #f3aaaa),
     color-stop(100%, #febf04) */
