@@ -20,18 +20,15 @@ hr {
   border-width: 3px;
   max-width: 65px;
 }
-/* .btn {
+.button {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-} */
+}
 
 .btn-success {
   background-color: #f05f44;
   border-color: #f05f44;
-  font-weight: 700;
-  text-transform: uppercase;
-  border-radius: 300px;
 }
 
 .btn-success:hover {
