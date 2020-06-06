@@ -153,8 +153,8 @@ a {
 }
 
 .navBtn {
-  background-color: t#7abcff;
-  border: solid #7abcff;
+  background-color: transparent;
+  border: solid transparent;
   border-bottom: solid blanchedalmond;
   color: white;
 }
