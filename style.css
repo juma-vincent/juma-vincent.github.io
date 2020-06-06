@@ -154,6 +154,7 @@ a {
   border: solid transparent;
   border-bottom: solid blanchedalmond;
   color: white;
+  border-radius: 200px;
 }
 
 footer {
